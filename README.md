@@ -3,9 +3,6 @@
 
 
 
-app link-------------------> http://127.0.0.1:8000/todo/
-
-
 The Todo List Manager is a web application designed to help users efficiently manage their tasks. Key features include:
 
 Theme Toggle: Users can switch between light and dark modes for a customizable visual experience.

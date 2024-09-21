@@ -1,2 +1,6 @@
 # Todolist
 #using Django , Bootstrap ,sqllite3
+
+
+
+app link-------------------> http://127.0.0.1:8000/todo/
